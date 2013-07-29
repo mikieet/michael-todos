@@ -2,5 +2,6 @@ Milk
 Cheese
 Sugar
 Bread
+Fish
 Bin bags
 Washing powder
