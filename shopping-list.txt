@@ -1,6 +1,6 @@
-Milk
-Cheese
-Sugar
-Bread
 Bin bags
+Bread
+Cheese
+Milk
+Sugar
 Washing powder
