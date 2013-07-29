@@ -1,7 +1,7 @@
-Milk
-Cheese
-Sugar
-Bread
-Fish
 Bin bags
+Bread
+Cheese
+Fish
+Milk
+Sugar
 Washing powder
