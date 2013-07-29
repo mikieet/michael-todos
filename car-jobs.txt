@@ -4,3 +4,6 @@ Service car
 Tax car
 Wash car
 Crow Bar
+paint flames
+chop top
+tint windows
