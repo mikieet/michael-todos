@@ -3,3 +3,5 @@ Milk
 Cheese
 Sugar
 Bread
+Bin bags
+Washing powder
