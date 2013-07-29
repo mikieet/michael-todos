@@ -1,0 +1,5 @@
+Egg
+Milk
+Flour
+Sugar
+Bread
