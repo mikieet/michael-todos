@@ -5,3 +5,5 @@ Fish
 Milk
 Sugar
 Washing powder
+Bin Bags
+Stew
